@@ -22,7 +22,7 @@ Before you get started, please install:
 git clone https://github.com/KolmThomas/WS-KnowHow-Basic-Testautomation.git
 cd playwright-training
 npm install
-''
+'''
 ## 🧪 How to run the TypeScript files and see the results in the console
 1. Open your terminal (e.g. in VS Code). (Top Bar > Terminal > New Terminal)
 2. Make sure you're in the root folder of the project. 
